@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "QSB GTU"
 date:   2023-12-10 22:07:13 +0300
 categories: jekyll update
 ---
